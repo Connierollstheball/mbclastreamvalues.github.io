@@ -8,7 +8,7 @@ questions = [
         }
     },
     {
-        "question": "I enjoy relxaing levels.",
+        "question": "I enjoy relaxing levels.",
         "effect": {
             "econ": 0,
             "dipl": 0,
